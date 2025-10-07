@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Finn!
-- 👀 I’m interested in game dev, video games, art, and video game art! i'm also interested in accessibility in the video game world, and love solving weird problems with funky solutions
+- 👀 I’m interested in game dev, video games, art, and video game art! i'm also interested in accessibility in the video game sector, and love solving weird problems with weirder solutions
 - 🌱 I’m currently learning ...everything! most of my work happens inside of unity, so that's where i spend most of my time
 - 😄 Pronouns: he/him
 
